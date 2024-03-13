@@ -1,5 +1,6 @@
 # Projeto
-
+Esse projeto se trata sobre desenvolver o perfil próprio de introdução dentro do gitHub, servindo de apresentação
+aos que nele entrarem. E também serve de aprendizado ao iniciar o desenvolvimento de HTML.
 # Olá, eu sou a Vitor! 👋
 
 ## 🚀 Sobre mim
